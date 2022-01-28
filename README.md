@@ -5,3 +5,5 @@ This is the CAD repo for the "tall" variant of the [clank](https://clank.tools) 
 Read the [dev log](log/clank-fxy-log.md) for updates, and find the [most up to date CAD in /cad](cad). More documentation is at [clank.tools/build/flyingxy](https://clank.tools/build/flyingxy). 
 
 ![tc](log/images/2022-01-28_clank-fxy-bfs.png)
+
+This repo is mirrored [on github](https://github.com/jakeread/clank-fxy/) and the [cba internal gitlab](https://gitlab.cba.mit.edu/jakeread/clank-fxy).
